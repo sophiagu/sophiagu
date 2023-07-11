@@ -1,16 +1,23 @@
-### Hi there 👋
+```
+    < Hiya! >
+            \    ^  ^
+             \   ||||
+              \  (**) ______ . 
+                 (v )\      )
+                     ||----||
 
-<!--
-**sophiagu/sophiagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm
+
+> a human being striving to make a living on the Earth in the alpha Universe
+  >> there are possibly many universes and a random alphabet is used to denote the particular one that i presently inhabit
+
+> a natural science enthusiast
+  >> i like both theories and laboratories, esp. for things at molecular level or below, the smaller, the more interesting things behave there
+  
+> a math and philosophy lover
+  >> the former is beautiful and the latter is fascinating (the mathematicians i admire most are Henri Poincaré and John Conway, with whom i was fortunate to meet in person
+  
+> a magic admirer and J. K. Rowling is my idol
+```
